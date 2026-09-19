@@ -10,28 +10,27 @@ Sílex se dedicó a explorar el mundo en busca de Dios, llegando incluso al nuev
 
 En su búsqueda de Dios, Sílex intercede siempre que puede en pos del bienestar de todos por donde pasa. La culminación de este viaje es comprender que ella es la Diosa solar y que ella ha vivido todas las vidas de su comunidad.
 
-```
-La meditacion es parte de la rutina diaria de sílex. los selica son gente muy agradecida, muy conectada entre sí y toda la naturaleza que les rodea, pero sílex aprendió desde que se convirtió en una mujer que la meditacion era una herramienta necesaria para alcanzar la iluminacion divina que le permitiria liderar a su pueblo.
-
-ya no hay pueblo que liderar. se han perdido en un mar de gente que acapara energia del mundo con sus intensas historias. al sentarse y cerrar sus ojos puede sentir al instante los rastros que dejan estas emociones, y para no perderse en ellas se concentra en si misma.
-comienza por su cabeza, que es como una antena que muy facilmente capta todo lo que se transmite a través del aire. si lo decidiera podria hasta escuchar los susurros de Opal, pero por el momento debe apagar todos esos receptores. mente vacía, impermeable contra todo lo que existe afuera. es como si una luz se deslizara por su cuello, va hacia su corazón. allí es consciente de sus latidos, de su salud, de cualquier rasguño que cubriera su piel, y de la escasa velocidad a la que envejece su cuerpo.
-puede sentir las yemas de sus dedos apoyadas en sus muslos, sobre la ropa de cuero de los animales que fallecieron para brindarle la energía y el abrigo que necesitaba. Esos receptores tambien debe cerrarlos. Sus manos se apagan, sus codos, brazos, hombros. De pronto es como si no existieran. Su energía interior ya no se dispersa a través de ellos.
-
-En su estómago se ha acumulado el calor. Su cuerpo aúrico se ha concentrado allí, el lugar de almacenamiento del cuerpo físico. se siente como una esfera flotando, y recuerda su vida como si ocurriera todo al mismo tiempo. al mismo tiempo que ha ocurrido todo hasta ahora, cuando llegó al poblado y halló a esos niños moribundos siendo atendidos por egoístas, adoradores de dioses igual de egoístas. no era la primera vez que lo veía.
-
-si escuchamos a nuestros pies descalzos, al eje de nuestro cuerpo apoyado en la tierra sentiremos primero las vibraciones de la gente del pueblo. sentiremos a los que agonizan, y sentiremos su sufrimiento. sentiremos también a los que gozan, y podremos regocijarnos tambien, porque cuando conectas con la gente, puedes sentir hasta el placer que le ofrece una prostituta a un cliente. puedes convertirte en ellos y compartir sus dichas y desdichas por algunos segundos. pero cuidado, que algunos han intentado aprovecharse de vidas que no son suyas, y se han perdido para siempre.
-
-no está solo la gente, también están las otras formas de vida que conviven con ellos. están los gusanos cavando túneles bajo la tierra, los peces nadando en el río, y si miras a través de un ave sabrás lo que es la libertad sin vértigo.
-
-las raíces de los árboles son la mejor forma de ver el mundo, porque han visto todo, lo ven, y lo seguirán viendo. sus raices se extienden hasta el centro de la tierra, tocando criaturas ancestrales que yacen aletargadas por siglos y que roncan haciendo vibrar las ramas de los árboles. podemos sentirlos manchados de sangre de goblin, y en esa sangre el arma del caballero negro que acabó con ellos y luego desapareció en la oscuridad del bosque. lo vemos cruzar su mirada con la nuestra, como si pudiera percatarse de nuestra presencia, antes de marcharse de la misma forma en que llegó: envuelto en el velo de la noche y la bruma.
-
-tambien esta la sangre de elliot y kenza, que intentan recomponerse para continuar el camino. Sílex podría advertir esto, pero su propia consciencia se encuentra observando ahora, y al volver no trae recuerdos ni avisos, sólo sensaciones.
-
-es inevitable tambien sentir las vibraciones de la tierra allá donde se enfrentaron guerreros contra un gran cocodrilo. nuevamente, la sangre baña y nutre la tierra bajo sus pies, los pies de aquellos distraídos que ignoraron las advertencias de goblins amparados por orcos. estos ultimos son criaturas horribles, egoístas y sanguinarias y carentes de alma, sin ninguna clase de respeto por la vida o la muerte. pero aun asi alteran la energia a su alrededor, porque la energia vive en todo lo que existe incluso aunque no sea visible. y los orcos, emanan una energía más grande y densa que la de cualquier humano. quizá solo un dragon sería digno adversario para tal magnitud de bestia. pero los dragones son sabios. abandonaron hace mucho tiempo a los humanos.
-
-Quizá solo Silex ha percibido a aquellos afortunados que han logrado escapar alguna vez de manos de los orcos, lástima que caen moribundos antes de llegar a ella u otra persona que sepa tratarle sus heridas. Tal como Shite, lo último que dejan por el camino son sus pisadas ensangrentadas donde crecen rosas blancas, y sus cuerpos que son absorbidos por rosales completos. Es una hermosa, pero dolorosa forma de volver a la tierra...
-
-https://youtu.be/1LvDY99M5B4
-```
+> [!NOTE]
+> 
+> La meditacion es parte de la rutina diaria de sílex. los selica son gente muy agradecida, muy conectada entre sí y toda la naturaleza que les rodea, pero sílex aprendió desde que se convirtió en una mujer que la meditacion era una herramienta necesaria para alcanzar la iluminacion divina que le permitiria liderar a su pueblo.
+> 
+> ya no hay pueblo que liderar. se han perdido en un mar de gente que acapara energia del mundo con sus intensas historias. al sentarse y cerrar sus ojos puede sentir al instante los rastros que dejan estas emociones, y para no perderse en ellas se concentra en si misma.
+> comienza por su cabeza, que es como una antena que muy facilmente capta todo lo que se transmite a través del aire. si lo decidiera podria hasta escuchar los susurros de Opal, pero por el momento debe apagar todos esos receptores. mente vacía, impermeable contra todo lo que existe afuera. es como si una luz se deslizara por su cuello, va hacia su corazón. allí es consciente de sus latidos, de su salud, de cualquier rasguño que cubriera su piel, y de la escasa velocidad a la que envejece su cuerpo.
+> puede sentir las yemas de sus dedos apoyadas en sus muslos, sobre la ropa de cuero de los animales que fallecieron para brindarle la energía y el abrigo que necesitaba. Esos receptores tambien debe cerrarlos. Sus manos se apagan, sus codos, brazos, hombros. De pronto es como si no existieran. Su energía interior ya no se dispersa a través de ellos.
+> 
+> En su estómago se ha acumulado el calor. Su cuerpo aúrico se ha concentrado allí, el lugar de almacenamiento del cuerpo físico. se siente como una esfera flotando, y recuerda su vida como si ocurriera todo al mismo tiempo. al mismo tiempo que ha ocurrido todo hasta ahora, cuando llegó al poblado y halló a esos niños moribundos siendo atendidos por egoístas, adoradores de dioses igual de egoístas. no era la primera vez que lo veía.
+> 
+> si escuchamos a nuestros pies descalzos, al eje de nuestro cuerpo apoyado en la tierra sentiremos primero las vibraciones de la gente del pueblo. sentiremos a los que agonizan, y sentiremos su sufrimiento. sentiremos también a los que gozan, y podremos regocijarnos tambien, porque cuando conectas con la gente, puedes sentir hasta el placer que le ofrece una prostituta a un cliente. puedes convertirte en ellos y compartir sus dichas y desdichas por algunos segundos. pero cuidado, que algunos han intentado aprovecharse de vidas que no son suyas, y se han perdido para siempre.
+> 
+> no está solo la gente, también están las otras formas de vida que conviven con ellos. están los gusanos cavando túneles bajo la tierra, los peces nadando en el río, y si miras a través de un ave sabrás lo que es la libertad sin vértigo.
+> 
+> las raíces de los árboles son la mejor forma de ver el mundo, porque han visto todo, lo ven, y lo seguirán viendo. sus raices se extienden hasta el centro de la tierra, tocando criaturas ancestrales que yacen aletargadas por siglos y que roncan haciendo vibrar las ramas de los árboles. podemos sentirlos manchados de sangre de goblin, y en esa sangre el arma del caballero negro que acabó con ellos y luego desapareció en la oscuridad del bosque. lo vemos cruzar su mirada con la nuestra, como si pudiera percatarse de nuestra presencia, antes de marcharse de la misma forma en que llegó: envuelto en el velo de la noche y la bruma.
+> 
+> tambien esta la sangre de elliot y kenza, que intentan recomponerse para continuar el camino. Sílex podría advertir esto, pero su propia consciencia se encuentra observando ahora, y al volver no trae recuerdos ni avisos, sólo sensaciones.
+> 
+> es inevitable tambien sentir las vibraciones de la tierra allá donde se enfrentaron guerreros contra un gran cocodrilo. nuevamente, la sangre baña y nutre la tierra bajo sus pies, los pies de aquellos distraídos que ignoraron las advertencias de goblins amparados por orcos. estos ultimos son criaturas horribles, egoístas y sanguinarias y carentes de alma, sin ninguna clase de respeto por la vida o la muerte. pero aun asi alteran la energia a su alrededor, porque la energia vive en todo lo que existe incluso aunque no sea visible. y los orcos, emanan una energía más grande y densa que la de cualquier humano. quizá solo un dragon sería digno adversario para tal magnitud de bestia. pero los dragones son sabios. abandonaron hace mucho tiempo a los humanos.
+> 
+> Quizá solo Silex ha percibido a aquellos afortunados que han logrado escapar alguna vez de manos de los orcos, lástima que caen moribundos antes de llegar a ella u otra persona que sepa tratarle sus heridas. Tal como Shite, lo último que dejan por el camino son sus pisadas ensangrentadas donde crecen rosas blancas, y sus cuerpos que son absorbidos por rosales completos. Es una hermosa, pero dolorosa forma de volver a la tierra...
+> 
 
 ![[Jaspe y Sílex.jpg]]![[silex.jpg]]

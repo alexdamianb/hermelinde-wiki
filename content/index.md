@@ -2,9 +2,10 @@
 - Atlas
 	- Capuspelo (continente)
 		- La Jungla
-		- Las Costas de Marfil
+		- [[Las Costas de Marfil]]
 		- Río Bravo
 		- El valle del gigante dormido
+		- [[Purna Icalis]]
 	- El viejo continente
 		- El desierto
 		- [[Selica (región)]]
@@ -12,14 +13,13 @@
 	- Civilizaciones, ciudades, pueblos
 		- [[Liberia]]
 		- [[Selica (civilización)]]
-		- Redención
+		- [[Redención]]
 		- De'vi
 		- [[Dolores]]
 		- Costa Marfil
 		- Leónica
 	- Fauna
-		- Dragón Marino
-		- [[Lobizón]]
+		- [[Dragón Marino]]
 		- [[Jagual]]
 		- [[Licántropo]]
 	- Flora
@@ -38,18 +38,21 @@
 		- [[Sigmeo]]
 	- Personajes históricos
 		- Mumanos
-			- Mur, el Inmortal
-			- Capuspello
+			- Mur, El Inmortal
+			- Lord Capuspello
+			- [[Fyjodor Lockhart]]
 		- Semibestias
-			- [[El principe del desierto]]
+			- [[Loke Baeloran, El Príncipe del Desierto]]
+		- Sigmeos
+			- [[Eleastor, El Habla Tormentas]]
 	- Deidades
 		- Ephemer
 		- Merrum
-		- Pholomar
+		- [[Pholomar]]
 		- [[La Loba de Plata]]
 		- [[La Segadora]]
 		- Xhi'va
 		- [[Sílex]]
 		- Uma
-		- Ped'Hues
+		- [[Ped'Hues]]
 		- Kalan
