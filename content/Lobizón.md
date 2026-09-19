@@ -1,0 +1,4 @@
+- es un hombre maldito
+- sin control se convierte aleatoriamente en una criatura entre humano y lobo
+- tiene mucha fuerza pero no son especialmetne agresivos
+- comen ganado pequeño y es común que coman desperdicios

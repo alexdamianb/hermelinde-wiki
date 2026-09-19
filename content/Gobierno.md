@@ -1,0 +1,19 @@
+El imperio es gobernado por el Emperador. El Emperador cuenta con facultades de poder absoluto y es responsable por el bienestar del imperio.
+
+Para asistir al Emperador éste designa Ministros de confianza para que le ayuden en la labor de gobernar. Los Ministros tienen las facultades que el Emperador les otorgue, y sólo dentro de sus áreas de ministería, además de que su palabra nunca va por sobre la del Emperador. Son los siguientes:
+
+- Ministerio de Conservación y Protección de la Magia y Hechicería (Gran Ministro de Magia y Hechicería), es representado por un dragón, y se encarga de conservar y proteger la magia y hechicería sin importar en qué formas se presente, además de toda la información que haya sobre ella.
+
+- Ministerio de las Finanzas (Gran Ministro de las Finanzas), es representado por una moneda, y se encarga de hacer la contaduría del imperio y mantener sus arcas disponibles para poder destinar fondos públicos y pagar jornales.
+
+- Ministro de Asuntos Exteriores (Gran Ministro del Exterior), es representado por una espada, y se encarga de mantener relaciones diplomáticas con naciones o pueblos del exterior, además de proteger al imperio de los mismos, por lo que a su cargo se encuentra el ejército.
+
+- Ministro de Asuntos Interiores (Gran Ministro del Interior), es representado por un escudo, y se encarga de mantener la paz interna y el orden público, por lo que se encuentra a cargo de los Carabineros; policía militarizada montada, armada con carabinas. Los carabineros más hábiles, honrados y confiables pueden ser seleccionados por el mismísimo Emperador para realizar los votos y convertirse en Húsares de la Muerte, una escuadra de élite y prestigio cuyo único deber es proteger al Emperador jurando lealtad a él por sobre el Gran Ministro del Interior.
+
+- Ministro de Salud Pública (Gran Ministro de Salud Pública), es representado por una hoja, este cargo se crea solamente en respuesta a la crisis sanitaria que ocurre en Liberia debido a la gran cantidad de gente del antiguo bajo Draven que intenta acceder al antiguo alto Draven, además de desertores de Redención (que abandonan la ciudad debido a bloqueos económicos por parte de la Confederación de los Reinos Libres). Su deber es actuar en conjunto con la ministería del interior para lidiar con la crisis sanitaria, ya que en una primera etapa se debe segregar a sanos de enfermos para evitar más contagios. Este ministerio sería responsable en un futuro de la construcción de acueductos y baños públicos ya que se establecería que la enfermedad tiene una estrecha relación con la higiene de las personas.
+
+- Ministro de la Fe y Cultura (Gran Ministro de la Fe), representado por un aro, se encarga de tratar los asuntos de la fe, de mediar entre las distintas prácticas religiosas de los habitantes de Liberia y establecería la fe de Leonica junto a sus caballeros sagrados luego de que el emperador Loke I pactara un acuerdo en el que se adoptaba tal fe como parte del imperio. 
+
+En la sala donde se celebran las asambleas generales, donde asiste el emperador y sus ministros, se encuentra al fondo una estatua de aproximadamente tres metros de altura, mirando en dirección a la puerta, situada entre dos ventanales. Esta estatua fue nombrada "La Justicia" y corresponde a un a semi bestia que representa la misma, con los ojos vendados. En la mano derecha sostiene una espada enfundada, mientras que en la mano izquierda sostiene en alto una balanza. Esta balanza sólo se encuentra balanceada cuando se colocan las figuras de bronce que representan a cada uno de los ministros, dando a entender que la verdadera justicia solo se da con la presencia de todos.
+
+Frente a La Justicia se encuentra la mesa donde se sientan los ministros, encabezados por el emperador, presidiendo La Justicia.

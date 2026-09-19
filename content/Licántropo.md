@@ -1,0 +1,2 @@
+- es una bestia malvada, una criatura terrible que toma la forma de un lobo antropomorfico enorme con garras y acapacidad para regenerar heridas rapidamente
+- tienen poco control sobre sus acciones, incluso en forma humana tienen tendencias antisociales

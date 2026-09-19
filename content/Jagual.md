@@ -1,0 +1,4 @@
+- lobo influido por la maldicion de los licantropos
+- quiza un licantropo le robo su guarida o le convirtio en su esclavo
+- tiene el aspecto de un cadaver, esta muriendo en vida
+- son mucho mas agresivos que un lobizon

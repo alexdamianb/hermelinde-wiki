@@ -1,0 +1,5 @@
+Desde la Cordillera de Uma baja un río que forma un lago entre ambas cordilleras, y luego cae de la meseta en una cascada que desemboca en otros tres ríos. Debido a la dificultad que suponen estas barreras geográficas es muy raro que llegue algún extranjero, o que los selica abandonen estas tierras. La meseta, el río y el lago y la misma cordillera para ellos no tienen nombre, ya que son los únicos que conocen. 
+
+La cordillera de Uma es muy alta y posee muchos glaciares, por lo que intentar cruzarla es impensado, aunque sí fue inspirador para antiguos pioneros para construir allí la Ciudad Sagrada. Hace unos cuantos milenios las temperaturas solían ser más bajas por lo que fue posible construir una ciudad austera en un intento por conectar con Dios, pero ahora las temperaturas son más extremas, los glaciares más grandes, más peligrosos, y los peregrinajes cada vez más privilegiados.
+
+La religión y cultura de los selica promueve su contento con el cultivo de la tierra. Estos fiordos tan fértiles en las épocas cálidas los mantienen con una abundante riqueza aún en los tiempos más helados. Es raro que se congele el lago, pero se dice que ha ocurrido.

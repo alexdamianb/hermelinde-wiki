@@ -1,0 +1,1 @@
+- Son inmunes a la magia de las esporas

@@ -1,0 +1,55 @@
+
+- Atlas
+	- Capuspelo (continente)
+		- La Jungla
+		- Las Costas de Marfil
+		- Río Bravo
+		- El valle del gigante dormido
+	- El viejo continente
+		- El desierto
+		- [[Selica (región)]]
+- Enciclopedia
+	- Civilizaciones, ciudades, pueblos
+		- [[Liberia]]
+		- [[Selica (civilización)]]
+		- Redención
+		- De'vi
+		- [[Dolores]]
+		- Costa Marfil
+		- Leónica
+	- Fauna
+		- Dragón Marino
+		- [[Lobizón]]
+		- [[Jagual]]
+		- [[Licántropo]]
+	- Flora
+		- Loto Manchado
+		- [[Hierbas comunes]]
+		- [[Hongos]]
+	- Objetos Especiales
+		- [[Anchores]]
+		- [[Piedras Filosofales]]
+	- Razas pensantes
+		- Bestia
+		- Heraldo de Ephemer
+		- Heraldo de Merrum
+		- Mumano
+		- Semi-Besita
+		- [[Sigmeo]]
+	- Personajes históricos
+		- Mumanos
+			- Mur, el Inmortal
+			- Capuspello
+		- Semibestias
+			- [[El principe del desierto]]
+	- Deidades
+		- Ephemer
+		- Merrum
+		- Pholomar
+		- [[La Loba de Plata]]
+		- [[La Segadora]]
+		- Xhi'va
+		- [[Sílex]]
+		- Uma
+		- Ped'Hues
+		- Kalan
