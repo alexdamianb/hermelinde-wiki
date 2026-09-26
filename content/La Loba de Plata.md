@@ -1,1 +1,2 @@
 - es el avatar de un dios
+- Le acompaña Jorge

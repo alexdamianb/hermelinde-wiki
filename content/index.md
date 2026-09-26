@@ -18,6 +18,8 @@
 		- [[Dolores]]
 		- Costa Marfil
 		- Leónica
+		- Ilica
+		- Sarcar
 	- Fauna
 		- [[Dragón Marino]]
 		- [[Jagual]]
@@ -29,22 +31,16 @@
 	- Objetos Especiales
 		- [[Anchores]]
 		- [[Piedras Filosofales]]
+	- Magia
+		- [[Runas Primordiales]]
 	- Razas pensantes
 		- Bestia
-		- Heraldo de Ephemer
-		- Heraldo de Merrum
+		- [[Heraldo de Ephemer]]
+		- [[Heraldo de Merrum]]
 		- Mumano
 		- Semi-Besita
 		- [[Sigmeo]]
-	- Personajes históricos
-		- Mumanos
-			- Mur, El Inmortal
-			- Lord Capuspello
-			- [[Fyjodor Lockhart]]
-		- Semibestias
-			- [[Loke Baeloran, El Príncipe del Desierto]]
-		- Sigmeos
-			- [[Eleastor, El Habla Tormentas]]
+		- [[Razas Extranjeras]]
 	- Deidades
 		- Ephemer
 		- Merrum
@@ -56,3 +52,21 @@
 		- Uma
 		- [[Ped'Hues]]
 		- Kalan
+	- Personajes históricos
+		- Mumanos
+			- Mur, El Inmortal
+			- Lord Capuspello
+			- [[Fyjodor Lockhart]]
+			- Elizabeth Bloodflame
+		- Semibestias
+			- [[Loke Baeloran, El Príncipe del Desierto]]
+		- Sigmeos
+			- [[Eleastor, El Habla Tormentas]]
+	- Otros Personajes
+		- [[Otros Personajes Mumanos|Mumanos]]
+		- [[Otros Personajes Bestias|Bestias]]
+		- [[Otros Personajes Semibestias|Semibestias]]
+		- [[Otros Personajes Sigmeos|Sigmeos]]
+		- [[Otros Personajes Heraldos de Ephemer|Heraldos de Ephemer]]
+		- [[Otros Personajes Heraldos de Merrum|Heraldos de Merrum]]
+		- [[Otros Personajes de Razas Extranjeras|Razas Extranjeras]]

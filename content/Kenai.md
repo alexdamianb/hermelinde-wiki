@@ -1,0 +1,3 @@
+- Rey caído de los ursinos
+- Portador de la [[Espada de Medialuna]]
+- Tiene un hijo pequeño que fue asesinado cuando lo derrocaron

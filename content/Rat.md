@@ -1,0 +1,4 @@
+- Semimediano
+- Ladrón
+- Descendiente de [[Lasal]]
+- mide 1.20 m
