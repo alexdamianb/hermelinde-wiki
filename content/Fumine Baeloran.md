@@ -1,0 +1,5 @@
+- Adopta el apellido al casarse con [[Loke Baeloran, El Príncipe del Desierto]]
+- Le falta un brazo, usa una prótesis que le acabará quitando la vida a temprana edad
+- Es el principal soporte de Loke durante la primera rebelión de los Gargantas de Fuego
+- Le fue infiel a Loke con (no recuerdo el nombre, un mago poderoso de Purna Icalis)
+- Es la primera persona conocida que concibe con un semibestia. Su hija es [[Melyse Baeloran]]

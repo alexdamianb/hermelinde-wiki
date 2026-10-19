@@ -1,31 +1,31 @@
 
 - Atlas
 	- Capuspelo (continente)
-		- La Jungla
+		- [[La Jungla]]
 		- [[Las Costas de Marfil]]
-		- Río Bravo
-		- El valle del gigante dormido
+		- [[Río Bravo]]
+		- [[El Valle del Gigante Dormido]]
 		- [[Purna Icalis]]
 	- El viejo continente
-		- El desierto
+		- [[El desierto]]
 		- [[Selica (región)]]
 - Enciclopedia
 	- Civilizaciones, ciudades, pueblos
 		- [[Liberia]]
 		- [[Selica (civilización)]]
 		- [[Redención]]
-		- De'vi
+		- [[De'vi]]
 		- [[Dolores]]
-		- Costa Marfil
-		- Leónica
-		- Ilica
-		- Sarcar
+		- [[Costa Marfil]]
+		- [[Leónica]]
+		- [[Ilica]]
+		- [[Sarcar]]
 	- Fauna
 		- [[Dragón Marino]]
 		- [[Jagual]]
 		- [[Licántropo]]
 	- Flora
-		- Loto Manchado
+		- [[Loto Manchado]]
 		- [[Hierbas comunes]]
 		- [[Hongos]]
 	- Objetos Especiales
@@ -34,30 +34,33 @@
 	- Magia
 		- [[Runas Primordiales]]
 	- Razas pensantes
-		- Bestia
+		- [[Bestia]]
 		- [[Heraldo de Ephemer]]
 		- [[Heraldo de Merrum]]
-		- Mumano
-		- Semi-Besita
+		- [[Mumano]]
+		- [[Semi-Bestia]]
 		- [[Sigmeo]]
 		- [[Razas Extranjeras]]
 	- Deidades
-		- Ephemer
-		- Merrum
+		- [[Ephemer]]
+		- [[Merrum]]
 		- [[Pholomar]]
 		- [[La Loba de Plata]]
 		- [[La Segadora]]
-		- Xhi'va
+		- [[Xhi'va]]
 		- [[Sílex]]
-		- Uma
+		- [[Uma]]
 		- [[Ped'Hues]]
-		- Kalan
+		- [[Kalan]]
+		- [[Arachne]]
+		- [[Todo]]
 	- Personajes históricos
 		- Mumanos
-			- Mur, El Inmortal
-			- Lord Capuspello
+			- [[Mur, El Inmortal]]
+			- [[Lord Capuspello]]
 			- [[Fyjodor Lockhart]]
-			- Elizabeth Bloodflame
+			- [[Elizabeth Bloodflame]]
+			- [[Lord Ripley]]
 		- Semibestias
 			- [[Loke Baeloran, El Príncipe del Desierto]]
 		- Sigmeos

@@ -1,0 +1,4 @@
+- Creó a [[Víctor de Pira Ogno]], un constructo difícil de distinguir de un humano
+- Fundó [[Los Héroes del Ocaso]] junto a su grupo de amigos: [[Ricardo Bloodflame]] (padre de [[Elizabeth Bloodflame]]), Nikolai Lockhart (padre de [[Fyjodor Lockhart]])
+- Todos lo quieren de archimago, pero a él no le interesa. Tanto así, que los nobles que le conocen, comúnmente le atribuyen el título de "Lord" de todas formas.
+- Dominó la magia de (no recuerdo el nombre), lo que le ha permitido dividir su mente en fragmentos y plantarlos en otras cosas o incluso crear otros seres diferentes a partir de ella, como a [[Logan de Redención]] (y a Víctor?)

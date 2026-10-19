@@ -1,0 +1,2 @@
+- Constructo creado por [[Lord Ripley]]
+- Posee en uno de sus ojos a [[Todo]] y su guardián [[Ventor Hoja Anillada]]

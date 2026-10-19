@@ -1,6 +1,13 @@
-- [[Quinto]]
+- [[Quinto de Río Bravo]]
 - [[Amelia]]
 - [[Nicolás - PJ Lobos de Rio Bravo|Nicolás Tumbapinos]]
-- Elliot
-- Fumine
-- 
+- [[Elliot de Leónica]]
+- [[Fumine Baeloran]]
+- [[Ventor Hoja Anillada]]
+- [[Ricardo Bloodflame]]
+- [[Nikolai Lockhart]]
+- [[Ekaterina Lockhart]]
+- [[Pyotr Lockhart]]
+- [[Daria Lockhart]]
+- [[Logan de Redención]]
+- [[Arjun de De'vi]]

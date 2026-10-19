@@ -4,5 +4,5 @@
 - (Permitía detener el tiempo o teletransportarse?)
 
 Portadores:
-- Ventor
-- Arjun
+- [[Ventor Hoja Anillada]]
+- [[Arjun de De'vi]]

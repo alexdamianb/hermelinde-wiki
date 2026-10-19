@@ -1,1 +1,1 @@
-- Thaloran
+- [[Thaloran del Valle del Gigante Dormido]]

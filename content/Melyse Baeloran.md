@@ -1,0 +1,4 @@
+- Hija de [[Loke Baeloran, El Príncipe del Desierto]] y [[Fumine Baeloran]]
+- Primer híbrido conocido de semibestia y humano
+- Vive hasta los 16 años en paz en [[Las Costas de Marfil]], aislada y sin conocimiento sobre el impacto de sus padres en el mundo. Pero a esa edad su padre la abandona en [[Purna Icalis]], y con el tiempo descubre la verdad, ya que él se lanza a emprender la segunda rebelión de los Gargantas de Fuego
+- Pasados sus 4 años en la escuela de magia, cuando las puertas se abren, su padre la secuestra mientras sus hombres asesinan a quien se les cruce por delante. Melyse será una de las pocas usuarias de magia aún vivas en el mundo, y la única que no tiene que temer por ello.

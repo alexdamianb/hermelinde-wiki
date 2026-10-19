@@ -1,0 +1,10 @@
+
+![[Pasted image 20261019122307.png]]
+
+- Esposo de [[Ekaterina Lockhart]]
+- Padre de [[Fyjodor Lockhart]]
+- Funda y lidera Los Héroes del Ocaso junto a sus amigos [[Ricardo Bloodflame]], [[Lord Ripley]], y [[Kaellion de Oldcastle]]
+- Relojero e inventor. Ingeniero. Comparte la visión de [[Pyotr Lockhart]], ganándose su favor. Al enamorarse de su hija, se une a la guardia de [[Redención]] para mejorar su estatus y pedir su mano en matrimonio. Se convierte rápidamente en un oficial condecorado por sus capacidades analíticas y calculadoras. Le llaman "El Sabueso de la Guardia".
+- Ama a su hijo, le enseña todo lo que sabe y nutre una mente racional, analítica, con la creatividad para diseñar cualquier solución. Ambos se llevan sumamente bien, y su hijo le considera su mejor amigo.
+- Es declarado muerto por la guardia luego de una revuelta de esclavos en el distrito de cobre. Su cuerpo desfigurado es entregado a la familia. Su esposa [[Ekaterina Lockhart]] enmudece y pierde cualquier capacidad o intención de vivir, como un fantasma en vida. [[Fyjodor Lockhart]], su hijo de 15 años al momento evade sus responsabilidades sin poder lidiar con el suceso, ni podrá hacerlo por algunos años más. [[Daria Lockhart]] es la única que puede observar con detenimiento el cadáver y darse cuenta que no corresponde a él. Pregunta al jefe de la guardia por las circunstancias que llevaron a la supuesta muerte de Nikolai, pero la conversación le confirma lo que suponía: será mejor no preguntar más, y guardar silencio. La anciana solo resiente el estado de su hija, pero escarbar en la verdad podría acabar con el nombre de la familia.
+- Nikolai había sido identificado como un Héroe del Ocaso y sus rivales se pusieron un pie delante de él. El grupo fue capturado. Nikolai acaba huyendo, pero el estado en el que termina es tan lamentable que él mismo se considera un hombre muerto de todas formas, por lo que se mantiene oculto y ayuda cuando puede desde las sombras sin revelarse a nadie. Cree que su hijo estará mejor asumiendo que él ya ha muerto.

@@ -1,0 +1,6 @@
+- Abuela de [[Fyjodor Lockhart]]
+- Esposa de [[Pyotr Lockhart]], de quien adopta el apellido
+- Madre de [[Ekaterina Lockhart]]
+- Carácter sumamente fuerte y dominante, es principalmente responsable por las buenas conexiones sociales y buen estatus de la familia
+- Se lleva muy mal con [[Nikolai Lockhart]] y no le tiene mucha estima.
+- Ama mucho al resto de su familia. Vive peleando contra la obstinadez de su hija (es igual a ella), y tiende mostrarse estricta y juiciosa con Fyjodor.

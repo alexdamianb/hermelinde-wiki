@@ -1,0 +1,4 @@
+- Esposo de [[Daria Lockhart]]
+- Padre de [[Ekaterina Lockhart]]
+- Acoge a un joven adulto [[Nikolai Lockhart]], admirando su ingenio y habilidad de relojería. Trabajan juntos, y acepta que pida la mano de su hija luego de condecorarse como oficial de la guardia. Le permite usar su apellido, e incluso heredar su posición poco después.
+- Es muy alegre, bromista y positivo, incluso cuando una extraña enfermedad comienza a afectarle. Primero perdió la presición en sus manos, poco a poco pierde el control del resto de sus extremidades, que se empiezan a poner tiesas con el tiempo. Pyotr era un buen relojero y mantuvo el negocio familiar a flote, pero tenía demasiadas ideas que nunca llegó a ejecutar. Nikolai compartía ese ingenio y creatividad y diversificó el negocio cuando se hizo cargo. Dicen que quizá por eso se apresuró tanto en dejar que su obstinada hija se casara un con plebeyo.
