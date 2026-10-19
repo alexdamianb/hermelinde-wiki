@@ -1,5 +1,5 @@
 - [[Quinto de Río Bravo]]
-- [[Amelia]]
+- [[Amelia, La Pacificadora de Uma]]
 - [[Nicolás - PJ Lobos de Rio Bravo|Nicolás Tumbapinos]]
 - [[Elliot de Leónica]]
 - [[Fumine Baeloran]]
@@ -11,3 +11,4 @@
 - [[Daria Lockhart]]
 - [[Logan de Redención]]
 - [[Arjun de De'vi]]
+- [[Magdalena Dragonsails]]

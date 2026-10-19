@@ -1,0 +1,7 @@
+![[Pasted image 20261019133848.png]]
+
+- Sirve desde su juventud a la casa [[Lockhart]]. Desde que es una adolescente se responsabiliza por la crianza del recién nacido y futuro señor [[Fyjodor Lockhart]].
+- En cuanto se anuncia la muerte de su señor [[Nikolai Lockhart]] y su señora [[Ekaterina Lockhart]] abandona la casa con la mayoría de la servidumbre para irse con sus padres, Nanaya se queda atrás para velar por Fyjodor. Cuando Fyjodor asume como señor, Nanaya se convierte en la ama de llaves de la casa y sirve con la misma diligencia y amor de siempre.
+- Las actividades ilícitas de su señor, tal como su padre, le ganan enemigos terribles. Mientras Fyjodor no está en casa, son atacados y Nanaya es secuestrada junto a otros sirvientes.
+- Nanaya es esclavizada y enviada a trabajar a las minas de sal, en el [[El Valle del Gigante Dormido]] donde pasa años en la oscuridad. Allí conoce a una bestia con la que tienen un hijo en secreto, quien nace casi completamente tullido, probablemente por la mala vida y desnutrición de su madre. Su nombre es [[Thaloran del Valle del Gigante Dormido|Thaloran]].
+- Mientras Thaloran aún es un niño, llega el día en que Nanaya vuelve a ver la luz. [[Loke Baeloran, El Príncipe del Desierto]] y sus Gargantas de Fuego han tomado las minas de sal, y viejo Fyjodor Lockhart ha venido también a ayudar, sabiendo hace años dónde estaba Nanaya y esperando la oportunidad para actuar.

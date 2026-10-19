@@ -1,0 +1,10 @@
+![[Pasted image 20261019130300.png]]
+
+- Heredero de [[Oldcastle]], renuncia a su nobleza para casarse por amor con una plebeya del distrito de cobre en [[Redención]]. Juntos tienen dos hijos: Darian, y [[Arenvar Oldcastle|Arenvar]].
+- Junto a sus amigos [[Nikolai Lockhart]], [[Ricardo Bloodflame]], y [[Lord Ripley]] fundan [[Los Héroes del Ocaso]]. Su esposa lo fuerza a escoger entre ser padre y ser un justiciero, así que Kaellion abandona a su familia.
+- Los estudios de Ripley señalan a Kaellion como lo más cercano que puede estar un hombre a lo que ellos conocen como un dios ([[Mur, El Inmortal]]), lo que se logra debido a su mestizaje. Es además un usuario de magia.
+- Cuando su hijo mayor Darian crece lo suficiente, le busca y se une a los Héroes del Ocaso. Poco después, Arenvar le busca para que encuentre a su hermano. 
+- Luego de que los Héroes del Ocaso caen en una trampa, Kaellion es vendido a (no me acuerdo el nombre de este noble) quien lo usa como entretención en una especie de jaula laberíntica donde lo fuerza a luchar contra otras criaturas.
+- Cree que es rescatado por Darian, pero se trata de la segunda generación de los Héroes del Ocaso, a la que pertenece su hijo Arenvar y los otros hijos de sus amigos. Darian lamentablemente ya ha muerto en combate junto a ellos. Le había pagado al Cuervo, un tabernero que velaba por Arenvar, para que lo enviara a estudiar a [[Purna Icalis]], ya que es un usuario de magia, pero al parecer el Cuervo le traicionó porque Arenvar no tenía idea de esto.
+- Todo este tiempo ha creído que su grupo fue traicionado por [[Loke Baeloran, El Príncipe del Desierto]], pero cuando le confronta de hecho descubre que lo único que se sabe, es que le siguieron a él mismo.
+- Kaellion se dedica a ayudar a Arenvar, y por extensión al grupo. Cuando Loke pide espadas, Kaellion lleva a Arenvar con su abuelo para que reclame su herencia sobre [[Oldcastle]], ya que el señor no cuenta con otros herederos.

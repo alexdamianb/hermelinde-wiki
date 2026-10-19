@@ -1,0 +1,2 @@
+- Legítimo heredero de su casa, abdicó en favor de su hermano adoptivo [[Loke Baeloran, El Príncipe del Desierto|Loke]]
+- 

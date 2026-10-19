@@ -54,6 +54,13 @@
 		- [[Kalan]]
 		- [[Arachne]]
 		- [[Todo]]
+	- Casas nobles
+		- [[Baeloran]]
+		- [[Dragonsails]]
+		- [[Wallbuilder]]
+		- [[Bloodflame]]
+		- [[Oldcastle]]
+		- [[Lockhart]]
 	- Personajes históricos
 		- Mumanos
 			- [[Mur, El Inmortal]]
@@ -61,6 +68,7 @@
 			- [[Fyjodor Lockhart]]
 			- [[Elizabeth Bloodflame]]
 			- [[Lord Ripley]]
+			- [[Arenvar Oldcastle]]
 		- Semibestias
 			- [[Loke Baeloran, El Príncipe del Desierto]]
 		- Sigmeos

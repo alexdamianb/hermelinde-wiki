@@ -1,0 +1,2 @@
+- Esposa de [[Fyjodor Lockhart]]
+- Luego de casarse descubre ser la oráculo de su familia, así que lo mantiene en secreto

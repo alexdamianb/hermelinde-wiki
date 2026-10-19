@@ -1,0 +1,3 @@
+- Madre de [[Fyjodor Lockhart]]
+- Carácter indomable, aventurero, orgullosa y obstinada
+- Sus conexiones le garantizan un matrimonio a su hijo con una de las hijas de Lord [[Dragonsails]], quien en ese momento ocupa un lugar en el consejo de [[Redención]] como líder del gremio de navegantes.
