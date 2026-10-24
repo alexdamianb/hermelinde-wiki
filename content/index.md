@@ -9,6 +9,7 @@
 	- El viejo continente
 		- [[El desierto]]
 		- [[Selica (región)]]
+		- [[Las planicies gélidas]]
 - Enciclopedia
 	- Civilizaciones, ciudades, pueblos
 		- [[Liberia]]
